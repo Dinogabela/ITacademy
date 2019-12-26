@@ -1,0 +1,32 @@
+*{
+	font-family: Georgia,halvetica,sans-serif;
+	color: white;
+	font-size: 18px;
+  text-align: justify;
+}
+body{background-image: linear-gradient(to bottom, #343B3D, #8E9293);
+	text-align: center;
+ }
+
+h1{font-family: Georgia,halvetica,sans-serif;
+	color: white;
+	text-align: center;
+}
+
+
+nav  a { color: white
+}
+
+
+table.table { border-color:black;
+background-color: darkgray;
+}
+
+td { background-color:gray;
+border: 1px solid #999;
+padding: 2rem;
+}
+
+th { color: whitesmoke;
+}
+
